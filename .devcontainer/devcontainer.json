@@ -1,0 +1,9 @@
+{
+  "image": "torgeir/cljs-workshop",
+  "runArgs": [],
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "forwardPorts": [9500],
+  "extensions": ["betterthantomorrow.calva", "borkdude.clj-kondo"]
+}
